@@ -1,0 +1,1 @@
+# Marks mathify as a Python package
